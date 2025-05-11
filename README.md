@@ -6,8 +6,7 @@ This is a basic HTML project created as a simple challenge to practice and demon
 
 - Semantic HTML structure
 - Use of standard HTML tags (headings, paragraphs, lists, links, etc.)
-- No CSS or JavaScript—just pure HTML
-- Simple and beginner-friendly layout
+- No Auxiliary JavaScript libraries other than the one in the challenge instruction with pure HTML/CSS
 
 ## Files
 
@@ -26,6 +25,12 @@ To view the page:
    open index.html
    ```
    Or simply double-click the file in your file explorer.
+
+   if you are using Mac, you may have to use a python live server to open the project:
+   ```python
+   python3 -m http.server 8000
+   ```
+   And then on your browser use localhost:8000 to see the project.
 
 ## Purpose
 
