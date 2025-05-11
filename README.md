@@ -8,7 +8,7 @@ This is a basic HTML project created as a simple challenge to practice and demon
 
 - Semantic HTML structure
 - Use of standard HTML tags (headings, paragraphs, lists, links, etc.)
-- No Auxiliary JavaScript libraries other than the one in the challenge instruction with pure HTML/CSS
+- No Auxiliary JavaScript libraries other than the codepen one in the challenge instruction with pure HTML/CSS
 
 ## Files
 
