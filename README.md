@@ -1,6 +1,3 @@
-Here is the cleaned-up markdown version of your `README.md` without any extra commentary or explanation—ready to copy and use directly:
-
-```markdown
 # Simple HTML Challenge
 
 This is a basic HTML project created as a simple challenge to practice and demonstrate fundamental HTML skills. The goal is to build a structured and semantic webpage using only HTML.
@@ -41,6 +38,3 @@ This project is intended for:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Would you like to include an image preview or GitHub Pages deployment instructions as well?
