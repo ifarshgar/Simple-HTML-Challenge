@@ -2,6 +2,8 @@
 
 This is a basic HTML project created as a simple challenge to practice and demonstrate fundamental HTML skills. The goal is to build a structured and semantic webpage using only HTML.
 
+![Screenshot](./screenshot.png)
+
 ## Features
 
 - Semantic HTML structure
